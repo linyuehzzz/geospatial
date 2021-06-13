@@ -1,0 +1,103 @@
+<annotation>
+    <folder>JPEGImages</folder>
+    <filename>2019-12-28_15_05_01_camera_145.jpg</filename>
+    <path>/content/gdrive/My Drive/Colab Notebooks/traffic_density_dnn/automl/efficientdet/data/ohgo_cam_test/cam_145/JPEGImages/2019-12-28_15_05_01_camera_145.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>712.6154</xmin>
+            <ymin>834.98376</ymin>
+            <xmax>873.62726</xmax>
+            <ymax>950.9717</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>401.9898</xmin>
+            <ymin>666.2575</ymin>
+            <xmax>534.1322</xmax>
+            <ymax>751.70685</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1259.0339</xmin>
+            <ymin>388.6366</ymin>
+            <xmax>1301.8604</xmax>
+            <ymax>438.10522</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>869.56177</xmin>
+            <ymin>360.51422</ymin>
+            <xmax>910.307</xmax>
+            <ymax>386.66608</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>794.2892</xmin>
+            <ymin>346.4877</ymin>
+            <xmax>837.4435</xmax>
+            <ymax>377.02133</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1006.7552</xmin>
+            <ymin>255.93323</ymin>
+            <xmax>1050.4283</xmax>
+            <ymax>306.95062</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1207.5818</xmin>
+            <ymin>161.30289</ymin>
+            <xmax>1221.5054</xmax>
+            <ymax>171.83765</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1056.9026</xmin>
+            <ymin>176.89055</ymin>
+            <xmax>1070.3579</xmax>
+            <ymax>187.23045</ymax>
+        </bndbox>
+    </object>
+</annotation>

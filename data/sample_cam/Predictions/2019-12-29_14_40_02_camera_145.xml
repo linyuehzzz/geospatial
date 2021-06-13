@@ -1,0 +1,59 @@
+<annotation>
+    <folder>JPEGImages</folder>
+    <filename>2019-12-29_14_40_02_camera_145.jpg</filename>
+    <path>/content/gdrive/My Drive/Colab Notebooks/traffic_density_dnn/automl/efficientdet/data/ohgo_cam_test/cam_145/JPEGImages/2019-12-29_14_40_02_camera_145.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1235.9612</xmin>
+            <ymin>585.8813</ymin>
+            <xmax>1318.1294</xmax>
+            <ymax>662.0389</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1021.9327</xmin>
+            <ymin>302.1918</ymin>
+            <xmax>1048.5665</xmax>
+            <ymax>333.35635</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>372.7004</xmin>
+            <ymin>589.5628</ymin>
+            <xmax>485.93118</xmax>
+            <ymax>654.14874</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>882.90814</xmin>
+            <ymin>818.7449</ymin>
+            <xmax>1019.08527</xmax>
+            <ymax>920.2296</ymax>
+        </bndbox>
+    </object>
+</annotation>

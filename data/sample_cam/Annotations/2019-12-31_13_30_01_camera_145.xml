@@ -1,0 +1,87 @@
+<annotation>
+<folder>cam_145</folder>
+<filename>2019-12-31_13_30_01_camera_145.jpg</filename>
+<path>C:\Users\10716\OneDrive\Desktop\test_cam\cam_145\2019-12-31_13_30_01_camera_145.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1150</xmin>
+        <ymin>564</ymin>
+        <xmax>1222</xmax>
+        <ymax>624</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1206</xmin>
+        <ymin>644</ymin>
+        <xmax>1282</xmax>
+        <ymax>716</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1266</xmin>
+        <ymin>364</ymin>
+        <xmax>1298</xmax>
+        <ymax>396</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1270</xmin>
+        <ymin>272</ymin>
+        <xmax>1298</xmax>
+        <ymax>296</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>462</xmin>
+        <ymin>932</ymin>
+        <xmax>718</xmax>
+        <ymax>1076</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>210</xmin>
+        <ymin>716</ymin>
+        <xmax>382</xmax>
+        <ymax>836</ymax>
+    </bndbox>
+</object>
+</annotation>
