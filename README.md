@@ -1,2 +1,2 @@
 # geospatial
-This repo is to host notebook materials for the Geospatial Fellows Program.
+This repo hosts the notebook materials for the Geospatial Fellows Program.
